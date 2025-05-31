@@ -1,7 +1,8 @@
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://media1.tenor.com/m/_EYOsX_1CUkAAAAC/pixel-night.gif" alt="pixel night" width="600">
 </div>
+
 
 <!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hello👾&width=800&height=200&)](https://github.com/Akshay090/svg-banners) -->
 
@@ -62,9 +63,10 @@ My name is Ethan Ngwetjana. I'm a final year Computer Science and Computer Engin
 
 Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium%20Skin%20Tone.png" alt="Victory Hand Medium Skin Tone" width="25" height="25" />
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://media1.tenor.com/m/iz1jQ5voYjwAAAAd/10-%C4%91i%E1%BB%83m.gif" alt="gojo" width="600">
 </div>
+
 
 
 
