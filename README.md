@@ -5,7 +5,13 @@
 
 <!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hello👾&width=800&height=200&)](https://github.com/Akshay090/svg-banners) -->
 
-<p style="font-size: 32px; text-align: center; font-weight: bold;">Hello there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /></p>
+<div align="center">
+  <h1>
+    Hello there! 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+  </h1>
+</div>
+
 
 My name is Ethan Ngwetjana. I'm a final year Computer Science and Computer Engineering student at the University of Cape Town.
 
