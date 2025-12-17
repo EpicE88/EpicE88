@@ -17,10 +17,10 @@
   About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png"   alt="Man Technologist Medium Skin Tone" width="25" height="25" />
 </h2>
 <p align="center">
-  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="100">
-  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="100">
-  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="100">
-  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="100">
+  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="50">
+  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="50">
+  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="50">
+  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="50">
 </p>
 
 <h3 align="center">📚 What I'm learning:</h3>
@@ -34,10 +34,10 @@
 </div>
 
 <p align="center">
-  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="100">
-  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="100">
-  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="100">
-  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="100">
+  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="50">
+  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="50">
+  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="50">
+  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="50">
 </p>
 
 <h3 align="center">💡Fun facts:</h3>
@@ -57,10 +57,10 @@
   
 </div>
 <p align="center">
-  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="100">
-  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="100">
-  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="100">
-  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="100">
+  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="50">
+  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="50">
+  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="50">
+  <img src="https://media.tenor.com/yJCG4NwaV1EAAAAj/silksong-hornet.gif" width="50">
 </p>
 
 <h2 align="center">
